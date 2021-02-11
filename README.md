@@ -5,6 +5,8 @@ This repo is the project from a tutorial on how to create an infinite, vertical 
 
 [Vertical Scrolling Parallax Backgrounds in Godot](https://asmaloney.com/2021/02/code/vertical-scrolling-parallax-backgrounds-in-godot)
 
+![space thing example GIF](https://github.com/asmaloney/SpaceThing/blob/master/docs/SpaceThing-Final.gif?raw=true)
+
 
 Images
 ===
